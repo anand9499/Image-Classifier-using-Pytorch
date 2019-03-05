@@ -44,6 +44,8 @@ If other images are used, place them in the same folder structure as above.
 
 **predict.py** It uses the trained network to predict the class for an input image.
 
+**helper.py** File with helper code used by train and predict scripts
+
 ## How to run the commandline application
 - Train a new network on a data set with train.py
   - Basic usage: python train.py data_directory
